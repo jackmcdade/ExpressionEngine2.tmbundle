@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{exp:structure:top_level_title}$0</string>
+	<string>{structure:is:listing:parent}$0</string>
 	<key>name</key>
-	<string>exp:structure:top_level_title</string>
+	<string>structure:is:listing:parent</string>
 	<key>scope</key>
 	<string>text.html.ee</string>
 	<key>tabTrigger</key>
 	<string>structure</string>
 	<key>uuid</key>
-	<string>FD137C8F-4AFD-434A-9489-7CC368573710</string>
+	<string>7D2CF178-049D-4781-9743-1C01A1268701</string>
 </dict>
 </plist>

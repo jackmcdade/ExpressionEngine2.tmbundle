@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{exp:structure:titletrail${1: reverse="${2:no}"}${3: separator="${4::}"}${5: channel:title="${6:channel_name:custom_field}"}}$0</string>
+	<key>name</key>
+	<string>exp:structure:titletrail</string>
+	<key>scope</key>
+	<string>text.html.ee</string>
+	<key>tabTrigger</key>
+	<string>structure</string>
+	<key>uuid</key>
+	<string>3FECD601-D213-42A9-B697-B4CD58B1732A</string>
+</dict>
+</plist>

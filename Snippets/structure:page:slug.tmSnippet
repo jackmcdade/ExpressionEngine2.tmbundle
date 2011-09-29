@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{exp:structure:nav_full${1: css_id="$2"}${3: css_class="$4"}${5: status="$6"}${7: exclude_status="${8:hidden}"} current_class="active"${9: add_unique_id="yes"}}$0</string>
+	<string>{structure:page:slug}$0</string>
 	<key>name</key>
-	<string>exp:structure:nav_full</string>
+	<string>structure:page:slug</string>
 	<key>scope</key>
 	<string>text.html.ee</string>
 	<key>tabTrigger</key>
 	<string>structure</string>
 	<key>uuid</key>
-	<string>86144291-A5F5-4EEE-B714-5B70043AB7B9</string>
+	<string>CA8BD6AE-62C1-4B8E-9A4E-789138A747C7</string>
 </dict>
 </plist>

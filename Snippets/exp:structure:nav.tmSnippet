@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{exp:structure:nav${1: css_id="${2:nav}"}${3: css_class="${4:nav}"}${5: start_from="${6:/}"}${7: status="${8:open}"}${9: current_class="${10:active}"}${11: max_depth="$12"}${13: show_depth="${14:all}"}${15: include="$16"}${17: exclude="$18"}${19: channel:title="${20:pages:nav_title}"}${21: show_overview_link="${22:no}"}${21: rename_overview="$23"}${24: add_level_classes="${25:yes}"}${26: add_unique_id="${27:yes}"}${28: has_children_class="${29:yes}"}${30: include_ul="${31:yes}"}${32: add_span="${33:no}"}}$0</string>
+	<key>name</key>
+	<string>exp:structure:nav</string>
+	<key>scope</key>
+	<string>text.html.ee</string>
+	<key>tabTrigger</key>
+	<string>structure</string>
+	<key>uuid</key>
+	<string>8413C348-D7F6-4B9F-A05A-658A64ED3AA8</string>
+</dict>
+</plist>
